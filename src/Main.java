@@ -15,6 +15,7 @@ public class Main {
             System.out.println("Hello my first git code");
             System.out.println("second commit");
             System.out.println("third commit");
+            System.out.print("third commit didnt pushed in git");
         }
     }
 }
